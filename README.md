@@ -47,4 +47,4 @@ java chat.client.BotClient
 ````
 and repeat step 5.
 ## Autors
-[@Tyomnayark] (https://github.com/Tyomnayark)
+[@Tyomnayark](https://github.com/Tyomnayark)
